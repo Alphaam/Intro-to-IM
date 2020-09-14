@@ -1,5 +1,6 @@
 //SELF PORTRAIT
 
+
 //setting canvas size
 float canvasWidth = 600;
 float canvasHeight = 600;
