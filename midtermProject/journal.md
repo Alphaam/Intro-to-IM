@@ -5,7 +5,7 @@ The game will be an image shuffle game fused with an image positioning canvas. T
 
 The game will be multiplayer with the factor determining the winner being how quickly a player can piece together the photo. To make things interesting, the player has an option to speed up the shuffle in hopes of getting to desired image puzzle piece faster inorder to beat the other player's time.
 
-The game will also have levels where as you progress on in levels the photos a player needs to piece together become less and less easier to define. For exampls, the easiest level will be an phot of a building on campus while the harder level will be an photo of the sky with only the hue and saturation to guide the image tile placements.
+The game will also have levels where as you progress on in levels the photos a player needs to piece together have more and more image tiles that make them up.
 
 16th October
 Objective: Collect necessary items.
