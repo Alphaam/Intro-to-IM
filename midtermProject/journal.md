@@ -12,3 +12,10 @@ Objective: Collect necessary items.
 Activity: Went out and took multiple pictures of campus that I plan to include in the game, Learnt how to use the shuffle feature inorder to shuffle image portions within the list, used photoshop to divide the photos I took into image segments.
 Status: Completed
 Ammendments to initial idea: None.
+
+23rd October
+Objective:Start on code, learn how to move between multiple pages, learn how to create buttons, instert images into code.
+Activity: Studied Katie's code to figure out how to have multiple pages in the same code and how to create and use buttons in processing. Added all the mother ohotos into the code.
+Status:Completed
+Ammendments: None
+
