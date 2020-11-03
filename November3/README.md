@@ -7,3 +7,8 @@ The process became simple after revisiting the lecture and understanding exactly
 ##### SCHEMATIC DIAGRAM
 
 ![](schematic.jpg)
+
+
+#### FINAL RESULT
+![](
+
