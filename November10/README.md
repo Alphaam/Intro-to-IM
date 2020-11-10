@@ -4,7 +4,7 @@ The piece was meant to be an extension of the game I made in my last assignment.
 
 ## SCEMATIC DIAGRAM
 
-![]()
+![](20201110_125254.jpg)
 
 ## PHOTO OF PROJECT
 
