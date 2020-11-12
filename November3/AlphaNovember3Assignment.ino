@@ -3,9 +3,9 @@ Puzzle Objective: Turn off all the lights.
 */
 
 // Attaching pins to pushButton variables
-int pushButton = 4;
-int pushButton1 = 3;
-int pushButton2 = 5;
+const int pushButton = 4;
+const int pushButton1 = 3;
+const int pushButton2 = 5;
 
 // the setup routine runs once when you press reset:
 void setup() {
