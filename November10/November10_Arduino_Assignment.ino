@@ -2,11 +2,11 @@
 
 
 //Assigning pins to variables
-int GreenYellowLight = 10;
-int BlueRedLight = 5;
-int BlueGreenLight = 6;
-int RedYellowLight = 3;
-int button= 9;
+const int GreenYellowLight = 10;
+const int BlueRedLight = 5;
+const int BlueGreenLight = 6;
+const int RedYellowLight = 3;
+const int button= 9;
 
 
 void setup() {
