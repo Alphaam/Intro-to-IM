@@ -6,7 +6,7 @@ The process became simple after revisiting the lecture and understanding exactly
 
 ##### SCHEMATIC DIAGRAM
 
-![](schematic.jpg)
+![](20201124_131310.jpg)
 
 
 #### FINAL RESULT
