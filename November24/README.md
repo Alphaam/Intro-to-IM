@@ -5,15 +5,18 @@ The goal of the project was to encorporate sound and light effects to my air hoc
 
 ## SCHEMATIC DIAGRAM
 
-![](20201124_122619.jpg)
+![](20201124_124643.jpg)
 
 
 ## PHOTOS OF SETUP 
 
-![](20201117_134539.jpg)
+![](20201124_121511.jpg)
 
 
-![](20201117_134533.jpg)
+![](20201124_121444.jpg)
+
+
+![](20201124_121439.jpg)
 
 ## VIDEO SETUP
 
@@ -23,4 +26,4 @@ The goal of the project was to encorporate sound and light effects to my air hoc
 
 The difficulty I faced was, firstly, the lag that exists when Arduino sends information to Processing. I couldn't use delay() method because that interfered with the timin of the buzzer and so I had to construct a a function that utilizes the mills() feature o stall Arduino for long enough for Processing to move at the same pace. Another problem was encountered when sending information to Processing that would prompt the game to restart. In the serialEvent function, whenever I created an if statement that would execute the restart() function I would always get the error attached below. I then had to ditch the restart fuction and manually add the attributes that constituted a restart into the if statement. Even then, the error would still appear sometimes.
 
-![](20201117_134533.jpg)
+![](20201124_115936.jpg)
