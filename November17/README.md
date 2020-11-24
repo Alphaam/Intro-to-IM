@@ -5,7 +5,7 @@ The goal of the project was to create a musical instrument that utilizes the var
 
 ## SCHEMATIC DIAGRAM
 
-![](schematic.jpg)
+![](20201124_122619.jpg)
 
 
 ## PHOTOS OF SETUP 
