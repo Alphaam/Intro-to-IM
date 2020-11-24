@@ -7,8 +7,8 @@ A simple sketch of what I intend for the car to look like can be seen below.
 
 ## SKETCH OF THE CAR
 
-![]()
-![]()
+![](20201124_130029.jpg)
+![](20201124_125835.jpg)
 
 ## INTENDED PROCESS
 As it stands now,I am planning to use a series of boxes for the body, LED lights for the blinkers, the larger motors for the wheels, to use the smalller motor to turn corners, and my cellphone camera as the car's camera that I will use for remote navigation.
