@@ -13,3 +13,8 @@ The process became simple after revisiting the lecture and understanding exactly
 ![](Snapchat-1040963781.jpg)
 ![](Snapchat-694031302.jpg)
 
+
+#### DIFFICULTIES
+
+I did not experience any difficulties when building the game.
+
