@@ -24,9 +24,6 @@ Started building the car. Used two wheels attached to motors. I glued the two mo
 
 Ditched the idea of turning using the smaller motor. Instead I will use selective running of motor from each side to turn the car.
 
-# CAR SO FAR
-
-![]()
 
 ## DAY 2
 
@@ -38,7 +35,7 @@ Solved the problem with the brake feature. Turns out I had the stop function on 
 I had a problem with using millis when controlling the blinking of the lights as well as programming the sonar sensor. I was not very comfortable with the concept but watched tutorials and was able to figure it out.
 
 # VIDEO OF THE CAR WORKING YAY
-![]()
+![](https://drive.google.com/file/d/1oJ47YFwVh8wYOybGE9Y6SMZUVAHGVDTh/view?usp=sharing)
 
 ## DAY 4
 LOST ALL MY CODE AAAA
@@ -51,7 +48,11 @@ Built a carrier for my phone infront of the car used metal hangers, cardboard bo
 
 # PIC OF CAR WITH HANGER
 
-![]()
+
+![]( Carrier1.jpg)
+
+![]( Carrier2.jpg)
+
 
 ## DAY 7
 Feeling like my project is too trivial. Looking to encorporate a goal or task that it does.
@@ -62,8 +63,7 @@ Added the light sensitive resistor to the robot. Programmed it so that it sent i
 
 Recorded sounds for when the user turned on the robot, when the user asked for instructions, when the user started driving the robot, and when the robot found the lights were on. Attempted to make my voice sound robotic. Failed miserably but will still use this audio footage.
 
-# VIDEO OF PROGRAM WITH THE SOUNDS
-[Video]()
+
 
 ## DAY 8
 Everything is running smoothly. Robot is passing all the driving tests. Created the front end of the robot's program. Went with a neon background for a futuristic theme. Also added text that was similar to the text font from my midterm project because I like how it looks with the neon background. Attachd a link to the webcam in the drive button that I encorporated into the program.
